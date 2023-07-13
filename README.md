@@ -1,7 +1,7 @@
-brainfuck
+Game DEV
 [![Build Status](https://github.com/fabianishere/brainfuck/workflows/Build/badge.svg)](https://github.com/fabianishere/brainfuck/actions?query=workflow%3ABuild)
 ===========
-Brainfuck interpreter written in C.
+
 
 ## Usage
     brainfuck [-veh] file...
